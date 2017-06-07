@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Post 1</td>
-    <td>Date:  </td>
-    <td>7-6-17</td>
+    <td> Post 1 </td>
+    <td> Date:  </td>
+    <td> 7-6-17 </td>
   </tr>
 </table>
 
